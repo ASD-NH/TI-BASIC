@@ -34,7 +34,7 @@
 
 ### Physics
 
-[VECTOR]](/physics/VECTOR.8xp) by *Kevin Bujno*
+[VECTOR](/physics/VECTOR.8xp) by *Kevin Bujno*
 
 ### Pre-Algebra
 
