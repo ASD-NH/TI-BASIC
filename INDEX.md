@@ -1,6 +1,6 @@
 ### Algebra
 
-QUAD by *Kevin Bujno*
+[QUAD](TI-BASIC / algebra / QUAD.8xp) by *Kevin Bujno*
 
 ### Calculus
 
