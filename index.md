@@ -1,36 +1,41 @@
-# Program Index
-
-## Algebra
+### Algebra
 
 QUAD by *Kevin Bujno*
 
-## Calculus
+### Calculus
 
-## Electrical Engineering
+### Electrical Engineering
 
 PARALLEL by *Kevin Bujno*
+
 SOURCE by *Kevin Bujno*
+
 TIMER555 by *Kevin Bujno*
 
-## Games
+### Games
 
 GRID by *Daniel Bujno*
 
-## Geometry
+### Geometry
 
-## Other
+### Other
 
 BOUNCER by *Daniel Bujno*
+
 COLOR by *Daniel Bujno*
+
 DIGITS by *Daniel Bujno*
+
 HAIL by *Daniel Bujno*
+
 HAX by *Daniel Bujno*
+
 RANDOM by *Daniel Bujno*
 
-## Physics
+### Physics
 
-## Pre-Algebra
+### Pre-Algebra
 
 FACTOR by *Kevin Bujno*
 
-## Precalculus
+### Precalculus
