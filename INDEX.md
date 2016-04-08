@@ -6,36 +6,38 @@
 
 ### Electrical Engineering
 
-PARALLEL by *Kevin Bujno*
+[PARALLEL](/electrical-engineering/PARALLEL.8xp) by *Kevin Bujno*
 
-SOURCE by *Kevin Bujno*
+[SOURCE](/electrical-engineering/SOURCE.8xp) by *Kevin Bujno*
 
-TIMER555 by *Kevin Bujno*
+[TIMER555](/electrical-engineering/TIMER555.8xp) by *Kevin Bujno*
 
 ### Games
 
-GRID by *Daniel Bujno*
+[GRID](/games/GRIX.8xp) by *Daniel Bujno*
 
 ### Geometry
 
 ### Other
 
-BOUNCER by *Daniel Bujno*
+[BOUNCER](/other/BOUNCER.8xp) by *Daniel Bujno*
 
-COLOR by *Daniel Bujno*
+[COLOR](/other/COLOR.8xp) by *Daniel Bujno*
 
-DIGITS by *Daniel Bujno*
+[DIGITS](/other/DIGITS.8xp) by *Daniel Bujno*
 
-HAIL by *Daniel Bujno*
+[HAIL](/other/HAIL.8xp) by *Daniel Bujno*
 
-HAX by *Daniel Bujno*
+[HAX](/other/HAX.8xp) by *Daniel Bujno*
 
-RANDOM by *Daniel Bujno*
+[RANDOM](/other/RANDOM.8xp) by *Daniel Bujno*
 
 ### Physics
 
+[VECTOR]](/physics/VECTOR.8xp) by *Kevin Bujno*
+
 ### Pre-Algebra
 
-FACTOR by *Kevin Bujno*
+[FACTOR](/pre-algebra/FACTOR.8xp) by *Kevin Bujno*
 
 ### Precalculus
