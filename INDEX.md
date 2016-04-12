@@ -25,7 +25,7 @@
 [TIMER555](/electrical-engineering/TIMER555.8xp) by *Kevin Bujno*
 - calculate whether the timer will be on or off from inputted values
 
-## Functions
+### Functions
 
 [KSTOSTR1](/functions/KSTOSTR1.8xp) by *Curtis Duggan*
 - converts the number from the variable K into a string in the string Str1
