@@ -3,12 +3,12 @@
 [QUAD](/algebra/QUAD.8xp) by *Kevin Bujno*
 - prints a pretty quadratic formula, then calculates it from inputted values
 
-[QUADFORM](/algebra/QUADFORM.8xp) by *Curtis Duggan*
+[QUADFORM](/algebra/QUADFORM.8xp) by *Kurtis Duggan*
 - calculates quadratic formula from inputted values
 
 ### Calculus
 
-[EULERDIF](/calculus/EULERDIF.8xp) by *Curtis Duggan*
+[EULERDIF](/calculus/EULERDIF.8xp) by *Kurtis Duggan*
 - calculates euler differential formula
 
 ### Electrical Engineering
@@ -16,7 +16,7 @@
 [PARALLEL](/electrical-engineering/PARALLEL_KB.8xp) by *Kevin Bujno*
 - add as many parallel resistors as needed, enter 0 to exit
 
-[PARALLEL](/electrical-engineering/PARALLEL_CD.8xp) by *Curtis Duggan*
+[PARALLEL](/electrical-engineering/PARALLEL_CD.8xp) by *Kurtis Duggan*
 - add as many parallel resistors as needed, enter -1 to exit
 
 [SOURCE](/electrical-engineering/SOURCE.8xp) by *Kevin Bujno*
@@ -27,7 +27,7 @@
 
 ### Functions
 
-[KSTOSTR1](/functions/KSTOSTR1.8xp) by *Curtis Duggan*
+[KSTOSTR1](/functions/KSTOSTR1.8xp) by *Kurtis Duggan*
 - converts the number from the variable K into a string in the string Str1
 
 ### Games
@@ -37,7 +37,7 @@
 
 ### Geometry
 
-[HERON](/geometry/HERON.8xp) by *Curtis Duggan*
+[HERON](/geometry/HERON.8xp) by *Kurtis Duggan*
 - calculates the area of a triangle from three sides using heron's formula
 
 ### Other
@@ -72,5 +72,5 @@
 
 ### Precalculus
 
-[DOTPROD](/precalculus/DOTPROD.8xp) by *Curtis Duggan*
+[DOTPROD](/precalculus/DOTPROD.8xp) by *Kurtis Duggan*
 - calculates dot product from two vectors
